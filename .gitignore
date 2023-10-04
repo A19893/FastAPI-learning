@@ -1,0 +1,42 @@
+# General
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency directories
+__pycache__/
+bin/
+lib/
+include/
+*.egg-info/
+dist/
+build/
+
+# Compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables file
+.env
+
+# API documentation (if generated)
+docs/_build/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# FastAPI's automatic reload files
+__pycache__/
+.pytest_cache/
